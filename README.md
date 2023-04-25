@@ -16,7 +16,7 @@ To run the converter, simply execute the following command:
 
 ```bash
 php converter.php
-
+```
 ## TODO
 
 This converter only works for all the tables and columns for the connected database, the plan is to make it customizable so that custom table or column input would work and to make it workable with most of the databases.
